@@ -1,0 +1,5 @@
+1.- crear un objeto coleccion
+2.- cargar de datos con palabras y su respectiva traduccion a la collecion
+3.- pedir al usuario que ingrese una palabra
+4.- comparar la palabra si existe su traduccion en el diccionario
+5.- mostrar al usuario su traduccion en caso de que exista
