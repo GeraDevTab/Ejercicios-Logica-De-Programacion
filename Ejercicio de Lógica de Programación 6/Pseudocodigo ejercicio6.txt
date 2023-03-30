@@ -1,0 +1,4 @@
+1.- solicitar una palabra o frase al usuario por consola
+2.- almacenar el dato en una variable
+3.- enviar la variable a una funcion que va a transformar el dato a su forma invertida
+4.- mostrar el dato invertido por consola
