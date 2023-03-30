@@ -1,0 +1,6 @@
+1.- generar objetos collecion
+2.- cargar 20 datos de palabras con su traduccion al objeto coleccion
+3.- elegir 5 palabras de las guardadas en el objeto coleccion
+4.- mostrar al usuario por consola que las traduzca
+5.- calcular el numero de traducciones exitosas
+6.- mostrar en consola los resultados
