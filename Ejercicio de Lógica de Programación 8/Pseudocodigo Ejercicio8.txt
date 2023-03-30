@@ -1,0 +1,6 @@
+1.- crear un objeto array para almacenar 10 numeros
+2.- pedir al usuario ingrese 10 numeros por consola
+3.- enviar los numeros como parametros a una funcion para agregarlos a un array
+4.- operar los numeros para detectar los que son primos
+5.- ordenas los primos primeros
+6.- mostrarlos en pantalla al usuario
