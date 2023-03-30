@@ -30,7 +30,7 @@ public class Ejercicio9 {
 				diccionario.put("nuevo", "new");
 				diccionario.put("aire", "air");
 		
-		// Traer la direccion de Alexis
+		
 		
 		Scanner entrada = new Scanner(System.in);
 		System.out.print("Ingresa una palabra a traducir: ");
