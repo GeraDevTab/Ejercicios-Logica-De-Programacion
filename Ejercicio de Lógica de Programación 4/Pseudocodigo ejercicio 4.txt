@@ -1,0 +1,6 @@
+1.- solicitar al usuario ingrese un numero por medio del promp
+2.-validar si el usuario ingreso un numero
+3.- volver a pedir el numero al usuario, si el dato no es valido
+4.- con el dato validado, enviarlo como parametro a una funcion que realice las operaciones para obtener la serie fibonacci de ese numero
+5.- almacenar la serie de los numeros generados por la operacion en un array
+6. imprimir el arreglo de los resultados en el dom.
