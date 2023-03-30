@@ -1,0 +1,5 @@
+1.- Pedir un al usuario ingrese un numero por promp
+2.- validar que haya ingresado un numero
+3.- si no es numero, volver a pedirle que ingrese el dato
+4.- si es un numero, usar el dato para aplicarle formulas y convertir a farenheit y kelvin
+5. imprimir el resultado en el dom, imprimir el valor inicial, el valor convertido a farenheit y convertido a kelvin
